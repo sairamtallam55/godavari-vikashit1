@@ -1,0 +1,9 @@
+{
+  "name": "Godavari Virasat",
+  "description": "Immersive Digital Heritage and Cultural Exploration Platform for Godavari Pushkaralu 2027. Experience AR, interactive 3D heritage, virtual tours, AI guide, and multilingual Telugu, Hindi, and English exploration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
